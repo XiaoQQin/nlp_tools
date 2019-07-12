@@ -1,5 +1,6 @@
 # nlp_tools
-记录自己平时学习nlp过程中的工具和项目:laughing:  
+记录自己平时学习nlp过程中的工具和项目:laughing:    
+
 如果github 上jupyter_notebook 打不开 可使用[nbviewer](https://nbviewer.jupyter.org/)打开，将网站复制进输入框即可
 ##  处理文本:books:
 
